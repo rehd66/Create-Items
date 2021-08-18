@@ -1,0 +1,30 @@
+* {
+  margin:0; padding:0;
+  box-sizing: border-lightbox;
+/*   border: 1px solid black; */
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+#plant-input {
+  padding: 10px;
+  font-size: 20px;
+}
+.block {
+  display: block;
+  margin: 0 auto;
+  padding: 10px 25px;
+}
+
+.new-list {
+  background: #65F0BD;
+  box-shadow: 0 0 5px inset;
+  padding: 10px 0;
+}
+
+
+
